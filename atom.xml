@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-11T12:48:39.298Z</updated>
+  <updated>2020-03-11T12:53:43.958Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>after_set_private</title>
+    <link href="http://yoursite.com/2020/03/11/after-set-private/"/>
+    <id>http://yoursite.com/2020/03/11/after-set-private/</id>
+    <published>2020-03-11T12:53:43.000Z</published>
+    <updated>2020-03-11T12:53:43.958Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>after_source_branch</title>
